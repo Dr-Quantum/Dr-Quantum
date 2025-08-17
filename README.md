@@ -159,5 +159,6 @@ Gif que se actualiza segun el numero de visitas al repo
 
 </div>
 
-![](https://github.com/Dr-Quantum/Dr-Quantum/assets/108638686/5c4abda5-7ac4-420c-b1fa-4765d6948c58)
+![](https://github.com/user-attachments/assets/ae3582a5-396d-4894-a3ab-5babb57d86ea)
+
 

@@ -1,9 +1,10 @@
 <div align="center">
   
-![](https://github.com/CarlosCastanon2099/CarlosCastanon2099/assets/108638686/2963ac68-654e-4fb3-873b-be1a952fb7ed)
+![](https://github.com/user-attachments/assets/15bba0a7-0951-4fe7-b0ad-6fd03309c860)
+
+![](https://github.com/user-attachments/assets/6cf29d9c-2750-46cb-94fe-7798c080e57b)
 
 
-![](https://github.com/CarlosCastanon2099/CarlosCastanon2099/assets/108638686/aa1205ec-f802-41a6-b121-4285c761f0d5)
 
 <!---
 
@@ -16,7 +17,8 @@
 
 
 
-<img align= "right" width= "345" src= "https://github.com/CarlosCastanon2099/CarlosCastanon2099/assets/108638686/c057d4c1-79fa-4782-a281-60f241a34871"/>
+
+<img align= "right" width= "345" src= "https://github.com/user-attachments/assets/9b04a99a-7883-44da-ae6f-d8cd6cf8c21b"/>
 
 ```Java
 package Dr-Quantum;
@@ -48,7 +50,7 @@ Gif que se actualiza segun el numero de visitas al repo
 </div>
 -->
 
-## <img src="https://github.com/CarlosCastanon2099/CarlosCastanon2099/assets/108638686/e8800f68-15b2-4de3-9d1c-bb45d6ea5cca" width="30"> **Lenguajes Favoritos:**
+## <img src="https://github.com/user-attachments/assets/cd11816f-a91c-457d-9b34-99578e1f70ff" width="30"> **Lenguajes Favoritos:**
 
 
 
@@ -61,7 +63,9 @@ Gif que se actualiza segun el numero de visitas al repo
 
 </div>
 
-## <img src="https://media.tenor.com/d_t7PbVfgmoAAAAi/zero-megaman.gif" width="90"> **Plataformas Favoritas:**
+
+## <img src="https://github.com/user-attachments/assets/aa9245f5-a6d2-443f-8c41-b72aab651a92" width="90"> **Plataformas Favoritas:**
+
 
 
 
@@ -75,7 +79,7 @@ Gif que se actualiza segun el numero de visitas al repo
 </div>
 
 
-## <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/darkrai.gif" width="60"> **Estadísticas:**
+## <img src="https://github.com/user-attachments/assets/9575a86a-5208-4f9d-a5ca-d5dc061f9158" width="60"> **Estadísticas:**
 
 
 

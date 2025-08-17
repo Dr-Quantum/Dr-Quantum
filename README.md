@@ -55,10 +55,23 @@ Gif que se actualiza segun el numero de visitas al repo
 
 
 <div align="center">
-<img src="https://github.com/Dr-Quantum/Dr-Quantum/assets/108638686/fa7b0e26-8758-4dc3-8535-a901ef7c58bb" width="180">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBucWI3dTN2NzdqOGZvZG11OHQyYmRqYmExMGx2bTRqMG0xOWo3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.webp" width="100">
-<img src="https://github.com/Dr-Quantum/Dr-Quantum/assets/108638686/409df2f6-d6ca-4f44-a0f3-1f3e7c025b64" width="180">
-<img src="https://github.com/Dr-Quantum/Dr-Quantum/assets/108638686/d85a310a-84fe-4874-8652-671da9555d59" width="170">
+
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+
+
+<br>
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
 
 
 </div>
@@ -70,12 +83,24 @@ Gif que se actualiza segun el numero de visitas al repo
 
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNrYWUwdGYwOHl2ZHg3cG81dW9lM3l6aTI4bmoxN2JvMms3ZmppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.webp" width="100">
-<img src="https://www.windowslatest.com/wp-content/uploads/2021/07/Start-menu-animation.gif" width="100">
-<img src="https://i.imgur.com/4KZ6XRE.gif" width="100">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d2eXJuaGNkODduOGk2Z2Njbjg0OWltb2tpeDA3dGVhNmh2bHZoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.webp" width="100">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9jeGFnM2xpY2tnYm1weHdhZjN2ODNoMmJhMnd0c3BpdHpoczhqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.webp" width="100">
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<br>
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+ 
 </div>
 
 

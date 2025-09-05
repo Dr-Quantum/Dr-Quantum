@@ -33,8 +33,8 @@ public class Carlos {
     String carrera = "Ciencias de la Computación";
 
     ArrayList<String> Areas_De_Interes = new ArrayList<String>();
-    Areas_De_Interes.add("Inteligencia Artificial");
     Areas_De_Interes.add("Computación Cuántica");
+    Areas_De_Interes.add("Inteligencia Artificial");
     Areas_De_Interes.add("Redes Neuronales");
     Areas_De_Interes.add("Machine Learning");
     Areas_De_Interes.add("Deep Learning");
